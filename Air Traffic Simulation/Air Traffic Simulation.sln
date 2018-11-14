@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Air Traffic Simulation", "Air Traffic Simulation\Air Traffic Simulation.csproj", "{D37D2EE0-7226-4881-A8F8-37104FC09332}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AirTrafficSimulationUnitTest", "AirTrafficSimulationUnitTest\AirTrafficSimulationUnitTest.csproj", "{42509C71-83F9-4E5C-996E-F70F9C554BD7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D37D2EE0-7226-4881-A8F8-37104FC09332}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D37D2EE0-7226-4881-A8F8-37104FC09332}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D37D2EE0-7226-4881-A8F8-37104FC09332}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D37D2EE0-7226-4881-A8F8-37104FC09332}.Release|Any CPU.Build.0 = Release|Any CPU
+		{42509C71-83F9-4E5C-996E-F70F9C554BD7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{42509C71-83F9-4E5C-996E-F70F9C554BD7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{42509C71-83F9-4E5C-996E-F70F9C554BD7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{42509C71-83F9-4E5C-996E-F70F9C554BD7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {68DC7FB5-D284-4E3C-89CB-AFB708D860B2}
+	EndGlobalSection
+EndGlobal
